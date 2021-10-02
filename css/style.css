@@ -104,14 +104,14 @@ a {
 }
 
 .cover {
-    width: 200px;
-    height: 200px;
+    width: 160px;
+    height: 160px;
    
     box-shadow: 0 0 30px #eee;
     position: absolute;
-    margin-top: 3rem;
-    left: calc(88% - 100px);
+    margin-top: -4rem;
+    left: calc(85% - 100px);
   
     border-radius: 120px;
-    border: 5px solid rgba(0, 8, 10, 0.027);
+    border: 5px solid rgba(0, 8, 10, 0);
 }

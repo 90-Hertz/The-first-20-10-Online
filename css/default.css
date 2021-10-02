@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     /* Ảnh nền của trang thứ 2 nếu bạn muốn thay đổi thì nó tại đây */
-    background-image: url("../img/timeline.jpg");
+    background-image: url("../img/back.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     font-size: 14px;
