@@ -107,9 +107,9 @@ a {
     width: 160px;
     height: 160px;
    
-    box-shadow: 0 0 30px #eee;
+    box-shadow: 0 0 0px #eee;
     position: absolute;
-    margin-top: -4rem;
+    margin-top: -5rem;
     left: calc(85% - 100px);
   
     border-radius: 120px;
