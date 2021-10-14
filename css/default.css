@@ -28,13 +28,13 @@ a {
 #text {
     width: 400px;
     height: 425px;
-    left: 60px;
-    top: 80px;
+    left: 0px;
+    top: 0px;
     position: absolute;
 }
 #code {
     display: none;
-    font-size: 16px;
+    font-size: 12px;
 }
 #clock-box {
     position: absolute;
