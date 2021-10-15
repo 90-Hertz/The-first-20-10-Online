@@ -7,7 +7,7 @@ body {
     background-repeat: no-repeat;
     font-size: 14px;
     font-family: "sans-serif", "sans-serif", sans-serif;
-    color: #660086;
+    color: #4a0086;
     overflow: auto;
 }
 a {
@@ -28,13 +28,13 @@ a {
 #text {
     width: 400px;
     height: 425px;
-    left: 0px;
-    top: 0px;
+    left: -100px;
+    top: -10px;
     position: absolute;
 }
 #code {
     display: none;
-    font-size: 12px;
+    font-size: 14px;
 }
 #clock-box {
     position: absolute;
@@ -68,9 +68,9 @@ a {
     cursor: pointer;
 }
 #code {
-    width: 500px;
+    width: 660px;
     color: #3b6900;
-    font-family: cursive;
+    font-family: 'Alfa Slab One', cursive;
 }
 .space {
     margin-right: 150px;
