@@ -28,8 +28,8 @@ a {
 #text {
     width: 400px;
     height: 425px;
-    left: -100px;
-    top: -10px;
+    left: 5px;
+    top: 15px;
     position: absolute;
 }
 #code {
@@ -68,9 +68,9 @@ a {
     cursor: pointer;
 }
 #code {
-    width: 660px;
+    width: 580px;
     color: #3b6900;
-    font-family: 'Alfa Slab One', cursive;
+    font-family: cursive;
 }
 .space {
     margin-right: 150px;
