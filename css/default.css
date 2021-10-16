@@ -75,3 +75,24 @@ a {
 .space {
     margin-right: 150px;
 }
+
+
+
+.swagButton{
+    color: #31A6ff;
+    font-family: "proxima nova";
+    font-weight: 100;
+    font-size: 56px;
+    text-align: center;
+
+
+    border: solid 2px #31A6ff;
+    border-radius: 50px;
+    padding: 10px  80px;
+    -webkit-transition-duration: 200ms;
+    transition-duration: 200ms;
+}
+.swagButton{
+    background-color: #31A6ff;
+    color: #fff;
+}
