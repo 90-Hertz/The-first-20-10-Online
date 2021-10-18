@@ -115,3 +115,27 @@ a {
     border-radius: 120px;
     border: 5px solid rgba(0, 8, 10, 0);
 }
+
+
+
+.link{
+    color: #31A6FF;
+    font-family: "proxima nova";
+    font-weight: 100;
+    font-size: 36px;
+    text-align: center;
+
+
+    border: solid 2px #31A6FF;
+    border-radius: 50px;
+
+    padding: 10px 42px;
+    
+}
+
+
+.link:hover {
+    background-color: #31A6FF;
+    color: #fff;
+
+}
